@@ -1,5 +1,4 @@
-🧠 Mental Health Insights Dashboard
-
+**🧠 Mental Health Insights Dashboard**
 An interactive Power BI dashboard analyzing global mental health trends, lifestyle patterns, and treatment awareness.
 This project aims to uncover how stress, occupation, and personal history influence mental well-being — helping researchers, policymakers, and healthcare professionals gain meaningful insights into mental health data.
 
@@ -89,10 +88,8 @@ Mental_Health_Dashboard/
 This project is licensed under the MIT License
 .
 
-📧 Contact
-
-👤 Vedika Sankhe
-🔗 GitHub
- | LinkedIn
+## 📧 Contact
+👤 **Vedika Sankhe**  
+🔗 [GitHub](https://github.com/VedikaaSankhe) | [LinkedIn](https://www.linkedin.com/in/vedika-sankhe-707700317)  
 
 ⭐ If you found this project insightful, don’t forget to star the repo!
