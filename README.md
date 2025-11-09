@@ -1,81 +1,91 @@
-**🧠 Mental Health Insights Dashboard**
-An interactive Power BI dashboard analyzing global mental health trends, lifestyle patterns, and treatment awareness.
-This project aims to uncover how stress, occupation, and personal history influence mental well-being — helping researchers, policymakers, and healthcare professionals gain meaningful insights into mental health data.
+# 🧠 Mental Health Insights Dashboard
 
-🚀 Features
-🔹 Key Metrics at a Glance
+An interactive Power BI dashboard analyzing global mental health trends, stress patterns, and treatment awareness.
+This project highlights demographics, lifestyle habits, occupation-based stress, and therapy awareness — helping researchers, policymakers, and healthcare analysts gain meaningful insights into mental well-being.
 
-Total Responses: 287K+
+---
 
-Countries Covered: 10+
+## 🚀 Features
 
-Gender Split: 82% Male, 18% Female
+### 🔹 Key Metrics at a Glance
 
-🔹 Overview Dashboard
+- **Total Responses:** 287K+
 
-Gender & Country Distribution – Understand participation demographics
+- **Countries Covered:** 10+
 
-Days Indoors vs Growing Stress – Correlation between isolation and stress
+- **Gender Split:** 82% Male, 18% Female
 
-Occupation Distribution – Analyze stress trends across professions
+###🔹 Overview Dashboard
 
-Family History vs Treatment – Compare treatment rates based on family history
+- **Gender & Country Distribution –** Participation demographics
 
-Mood Swings & Habit Changes – Identify emotional and behavioral shifts
+- **Days Indoors vs Growing Stress –** Correlation between isolation and stress
 
-🔹 Stress & Lifestyle Analysis
+- **Occupation Distribution –** Stress analysis across job categories
 
-Work Interest Distribution – Measure job satisfaction and engagement
+- **Family History vs Treatment –** Relationship between heredity and mental care
 
-Growing Stress by Occupation – Highlight work-related stress levels
+- **Mood Swings & Habit Changes –** Emotional and behavioral variation tracking
 
-Coping Struggles – Understand how people deal with pressure
+###🔹 Stress & Lifestyle Analysis
 
-Social Weakness & Self-Employment by Gender – Identify gender-based lifestyle differences
+- **Work Interest Distribution –** Job satisfaction and engagement
 
-🔹 Treatment & Demographic Insights
+- **Growing Stress by Occupation –** Industry-wise stress comparison
 
-Family History by Gender – Examine hereditary mental health links
+- **Coping Struggles –** Understanding how individuals manage pressure
 
-Mental Health Interview Willingness – Identify openness to seek help
+- **Social Weakness by Gender –** Highlighting gender-based social stress gaps
 
-Care Options Awareness – Track awareness of available treatment options
+###🔹 Treatment & Demographic Insights
 
-Treatment by Country (Tree Map) – Visualize treatment reach globally
+- **Family History by Gender –** Mental health predisposition by gender
 
-Correlation Summary – Show relationships between stress, occupation, and mood swings
+- **Interview Willingness –** Openness toward discussing mental health
 
-📈 Key Insights & Storytelling
+- **Care Options Awareness –** Awareness of available treatment options
 
-Male respondents (82%) dominate, revealing gender bias in participation.
+- **Treatment by Country (Tree Map) –** Treatment access across regions
 
-The United States and United Kingdom contribute the highest number of responses.
+---
 
-Housewives and students show higher stress levels compared to other professions.
+### 📈 Key Insights & Storytelling
 
-Respondents with a family history of mental illness are more likely to seek treatment.
+- **Male respondents (82%)** dominate the dataset, indicating gender bias in participation.
 
-A significant portion of people remain unaware of available care options, emphasizing the need for awareness programs.
+- The **United States** and **United Kingdom** contribute the most responses.
 
-👉 Takeaway: The dashboard reveals a strong link between lifestyle, work environment, and mental health, with clear indicators of stress patterns and awareness gaps across demographics.
+- **Housewives** and **students** show the highest levels of stress.
 
-🛠 Tools & Technologies
+- Those with a family history of mental illness are more likely to seek treatment.
 
-Power BI → Interactive visualization and data modeling
+A majority remain unaware of available care options, showing an urgent need for awareness programs.
+
+👉 **Takeaway:** The analysis reveals how lifestyle, occupation, and social behavior directly influence mental well-being — exposing awareness gaps and behavioral trends crucial for future interventions.
+
+---
+
+## 🛠 Tools & Technologies
+
+Power BI → Interactive data visualization
 
 Excel / CSV → Data preprocessing and cleaning
 
-DAX & Power Query → Data transformation and measure creation
+DAX & Power Query → Data modeling and transformations
+
+---
 
 📂 Repository Structure
-Mental_Health_Dashboard/
-├── data/                            # Mental Mental Health Dataset.csv
-├── Mental Health Dashboard.pbix     # Power BI dashboard file
-├── Overview_Dashboard.png           # Overview page preview
-├── Stress_Lifestyle_Analysis.png    # Stress & lifestyle page preview
-├── Treatment_Insights.png           # Treatment & demographic page preview
-├── README.md                        # Project documentation
-└── LICENSE                          # MIT License
+
+├── data/ # Dataset 
+├── Mental Health Dashboard.pbix # Power BI dashboard file
+├── Overview_Dashboard.png # Overview dashboard preview
+├── Stress_Lifestyle_Analysis.png # Stress & Lifestyle dashboard preview
+├── Treatment_Insights.png # Treatment & Demographic insights preview
+├── README.md # Project documentation
+└── LICENSE # MIT License
+
+---
 
 📸 Dashboard Preview
 ![Dashboard](Overview_Dashboard.png)
@@ -83,13 +93,19 @@ Mental_Health_Dashboard/
 ![Dashboard](Stress_Lifestyle_Analysis.png)
 💊 Treatment Insights
 ![Dashboard](Treatment_Insights.png)
+
+---
+
 📜 License
 
 This project is licensed under the MIT License
 .
 
+---
+
+
 ## 📧 Contact
 👤 **Vedika Sankhe**  
 🔗 [GitHub](https://github.com/VedikaaSankhe) | [LinkedIn](https://www.linkedin.com/in/vedika-sankhe-707700317)  
 
-⭐ If you found this project insightful, don’t forget to star the repo!
+⭐ *If you found this project useful, don’t forget to star the repo!*  
