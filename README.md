@@ -5,7 +5,7 @@ This project highlights demographics, lifestyle habits, occupation-based stress,
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 ### 🔹 Key Metrics at a Glance
 
@@ -15,7 +15,7 @@ This project highlights demographics, lifestyle habits, occupation-based stress,
 
 - **Gender Split:** 82% Male, 18% Female
 
-###🔹 Overview Dashboard
+### 🔹 Overview Dashboard
 
 - **Gender & Country Distribution –** Participation demographics
 
@@ -27,7 +27,7 @@ This project highlights demographics, lifestyle habits, occupation-based stress,
 
 - **Mood Swings & Habit Changes –** Emotional and behavioral variation tracking
 
-###🔹 Stress & Lifestyle Analysis
+### 🔹 Stress & Lifestyle Analysis
 
 - **Work Interest Distribution –** Job satisfaction and engagement
 
@@ -37,7 +37,7 @@ This project highlights demographics, lifestyle habits, occupation-based stress,
 
 - **Social Weakness by Gender –** Highlighting gender-based social stress gaps
 
-###🔹 Treatment & Demographic Insights
+### 🔹 Treatment & Demographic Insights
 
 - **Family History by Gender –** Mental health predisposition by gender
 
@@ -67,15 +67,15 @@ A majority remain unaware of available care options, showing an urgent need for 
 
 ## 🛠 Tools & Technologies
 
-Power BI → Interactive data visualization
+- **Power BI** → Interactive data visualization
 
-Excel / CSV → Data preprocessing and cleaning
+- **Excel / CSV** → Data preprocessing and cleaning
 
-DAX & Power Query → Data modeling and transformations
+- **DAX & Power Query** → Data modeling and transformations
 
 ---
 
-📂 Repository Structure
+### 📂 Repository Structure
 
 ├── data/ # Dataset 
 ├── Mental Health Dashboard.pbix # Power BI dashboard file
@@ -87,22 +87,19 @@ DAX & Power Query → Data modeling and transformations
 
 ---
 
-**📸 Dashboard Preview**
+## 📸 Dashboard Preview
 ![Dashboard](Overview_Dashboard.png)
-**💼 Stress & Lifestyle**
+## 💼 Stress & Lifestyle
 ![Dashboard](Stress_Lifestyle_Analysis.png)
-**💊 Treatment Insights**
+## 💊 Treatment Insights
 ![Dashboard](Treatment_Insights.png)
 
 ---
 
-📜 License
-
-This project is licensed under the MIT License.
-.
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).  
 
 ---
-
 
 ## 📧 Contact
 👤 **Vedika Sankhe**  
