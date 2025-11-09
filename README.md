@@ -87,11 +87,11 @@ DAX & Power Query → Data modeling and transformations
 
 ---
 
-📸 Dashboard Preview
+**📸 Dashboard Preview**
 ![Dashboard](Overview_Dashboard.png)
-💼 Stress & Lifestyle
+**💼 Stress & Lifestyle**
 ![Dashboard](Stress_Lifestyle_Analysis.png)
-💊 Treatment Insights
+**💊 Treatment Insights**
 ![Dashboard](Treatment_Insights.png)
 
 ---
